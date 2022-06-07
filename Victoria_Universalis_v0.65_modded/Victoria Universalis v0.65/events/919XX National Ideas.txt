@@ -1,26 +1,7 @@
 # Audax Validator "!" Ignore_1004
 # Audax Validator "!" Ignore_1009
 
-country_event = {
-	id = 91951
-	title = "Army Morale Idea"
-	desc = "Our armies have increased morale."
-	picture = generals
 
-
-	trigger = {
-		has_country_flag = choosing_army_morale
-		NOT = { has_country_flag = army_morale_idea }
-		NOT = { has_country_modifier = army_morale_idea }
-	}
-
-	option = {
-		name = "Great!"
-		set_country_flag = army_morale_idea
-		clr_country_flag = choosing_army_morale
-		add_country_modifier = { name = army_morale_idea duration = -1 }
-	}
-}
 
 country_event = {
 	id = 91952

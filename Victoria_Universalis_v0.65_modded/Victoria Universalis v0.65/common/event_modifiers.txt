@@ -1449,13 +1449,10 @@ foreign_debt_timer = {
 
 ########## NATIONAL IDEAS ##########
 
-army_morale_idea = {
-	org_regain = 0.5
-	icon = 15
-}
 
 army_organisation_idea = {
 	land_organisation = 0.2
+	org_regain = 0.5
 	icon = 15
 }
 

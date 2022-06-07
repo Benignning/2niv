@@ -405,17 +405,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+50% Army Morale"
-		owner = { set_country_flag = choosing_army_morale }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = army_morale_idea
-			}
-		}
-	}
+	
 
 	option = {
 		name = "+20% Army Organisation"

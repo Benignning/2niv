@@ -350,10 +350,10 @@ MEX_94 = { 94 95 96  97 98 99 } #Nevada
 #MEX_97 = { 97 98 99 } #Utah
 
 
-MEX_100 = { 100 101 102 } #Arizona
+MEX_100 = { 100 101 102 103 104 105  } #Arizona
 
 
-MEX_103 = { 103 104 105 } #New Mexico
+#MEX_103 = { 103 104 105 } #New Mexico
 
 
 MEX_85 = { 84 85 86 87 88 89 90 } #California

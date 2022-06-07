@@ -3,93 +3,6 @@
 #
 # Effects are fully scriptable here.
 
-########### SIZE BUFFS AND NERFS ###########
-tiny_nation = {
-	trigger = {
-		NOT = {
-			OR = {
-				total_pops = 1000000 #1 million POPs
-				is_culture_group = germanic
-				is_culture_group = south_asian
-				is_culture_group = east_asian
-			}
-		}
-	}
-	leadership_modifier = -0.6
-	administrative_efficiency_modifier = 0.2
-	mobilisation_economy_impact = -0.5
-	mobilisation_size = 0.03
-	tax_efficiency = 0.05
-	icon = 9
-}
-
-small_nation = {
-	trigger = {
-		total_pops = 1000000 #1 million POPs
-		NOT = {
-			OR = {
-				total_pops = 3500000 #3.5 million POPs
-				is_culture_group = germanic
-				is_culture_group = south_asian
-				is_culture_group = east_asian
-			}
-		}
-		OR = {
-			NOT = { has_country_flag = mexico }
-			ai = no
-			has_global_flag = 1836_setup
-		}
-	}
-	leadership_modifier = -0.4
-	administrative_efficiency_modifier = 0.1
-	mobilisation_economy_impact = -0.2
-	mobilisation_size = 0.02
-	tax_efficiency = 0.02
-	icon = 9
-}
-
-medium_nation = {
-	trigger = {
-		total_pops = 3500000
-		NOT = {
-			OR = {
-				total_pops = 7500000 #7.5 million POPs
-				is_culture_group = germanic
-			}
-		}
-	}
-	leadership_modifier = -0.2
-	mobilisation_size = 0.01
-	icon = 9
-}
-
-large_nation = {
-	trigger = {
-		total_pops = 17500000
-		NOT = { total_pops = 30000000 } #30 million POPs
-		NOT = { civilized = no }		
-	}
-	icon = 9
-}
-
-empire = {
-	trigger = {
-		total_pops = 30000000
-		NOT = { total_pops = 60000000 } #60 million POPs
-		NOT = { civilized = no }			
-	}
-	leadership_modifier = 0.2
-	icon = 9
-}
-
-superpower = {
-	trigger = {
-		total_pops = 60000000
-		NOT = { civilized = no }		
-	}
-	leadership_modifier = 0.4
-	icon = 9
-}
 
 ########### EXPANSION ##########
 
@@ -97,7 +10,7 @@ expansionism_modifier = {
 	trigger = {
 		has_country_flag = expansionism_invented	
 	}
-	badboy = -0.02
+	badboy = -0.05
 	icon = 5
 }
 
@@ -635,22 +548,6 @@ disable_loans = {
 	icon = 9
 }
 
-########## IMMIGRATION ATTRACTION ##########
-
-great_power_immigration = {
-	trigger = {
-		is_greater_power = yes
-		capital_scope = {
-			OR = {
-				continent = north_america
-				continent = south_america
-				continent = oceania
-			}
-		}
-	}
-	global_immigrant_attract = 0.5
-	icon = 7
-}
 
 ########## MOBILIZATION TECHS ##########
 
