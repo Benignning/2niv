@@ -138,13 +138,13 @@ base_values = {
 
 war = {
 	max_war_exhaustion = 100			#base max at war.
-	badboy = -0.05
+	badboy = -0.1
 }
 
 peace = {
 	max_war_exhaustion = 50			#base max at peace.
 	war_exhaustion = -1
-	badboy = -0.1
+	badboy = -0.2
 }
 
 disarming = {
@@ -183,7 +183,7 @@ second_power = {
 	prestige = 0.05
 	research_points = 1.25
 	diplomatic_points_modifier = 0.25
-	leadership = 0.5
+	leadership = 1
 }
 
 civ_nation = {
@@ -213,7 +213,7 @@ total_occupation = {
 }
 
 total_blockaded = {
-	war_exhaustion = 0.1				#increased by war exhaustion.  
+	war_exhaustion = 0.15				#increased by war exhaustion.  
 }
 
 in_bankrupcy = {
