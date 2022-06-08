@@ -517,7 +517,7 @@ migration_target =
 promote_to =
 {
 	artisans = {
-		factor = 0.01
+		factor = 0.005
 		modifier = {
 			factor = 20
 			location = {
