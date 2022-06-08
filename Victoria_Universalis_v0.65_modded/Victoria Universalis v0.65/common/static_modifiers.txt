@@ -55,11 +55,14 @@ hard_ai = {
 
 very_hard_ai = {
 	badboy = -0.05
-	research_points_modifier = 1.0
+	research_points_modifier = 1.2
 	land_organisation = 0.5
 	naval_organisation = 0.5
 	leadership_modifier = 1.0
 	global_pop_militancy_modifier = -0.04
+	soldier_to_pop_ratio = 0.005
+	population_growth = 0.005
+	education_efficency = 0.002
 }
 
 

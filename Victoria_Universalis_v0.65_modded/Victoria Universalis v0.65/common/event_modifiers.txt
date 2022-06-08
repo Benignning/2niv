@@ -967,7 +967,7 @@ unequal_china_treaty = {
 ##### SECONDARY POWERS #####
 
 force_publique = {
-	population_growth = -0.004
+	population_growth = -0.000
 	local_rgo_throughput = 1
 	icon = 20
 }
@@ -1041,14 +1041,14 @@ the_slavery_debate = {
 
 the_bonnie_blue_flag = {
 	leadership = 2
-	mobilisation_economy_impact = -0.25
+	mobilisation_economy_impact = -0.20
 	mobilisation_size = 0.1
 	icon = 15
 }
 
 the_statue_of_liberty = {
 	prestige = 0.2
-	global_assimilation_rate = 0.5
+	global_assimilation_rate = 0.0
 	icon = 15
 }
 
@@ -1169,7 +1169,7 @@ rangaku = {
 #### SWI - Switzerland ####
 signed_the_geneva_convention = {
 	war_exhaustion = -0.02
-	supply_consumption = 0.1
+	supply_consumption = 0.0
 	icon = 7
 }
 
@@ -1362,12 +1362,13 @@ liberal_period_province = {
 batavia_reborn = {
 	life_rating = 0.5
 	icon = 9
+	population_growth = 0.002
 }
 
 ### AST - AUSTRALIA ###
 outback = {
-	farm_rgo_size = -0.75
-	mine_rgo_size = -0.75
+	farm_rgo_size = -0.0
+	mine_rgo_size = -0.0
 	icon = 14
 }
 
@@ -1458,29 +1459,25 @@ army_organisation_idea = {
 
 military_supplies_idea = {
 	supply_consumption = -0.15
+	reinforce_rate = 0.15
 	icon = 15
 }
 
-military_hospitals_idea = {
-	icon = 15
-}
+
 
 army_experience_idea = {
 	land_unit_start_experience = 15
+	army_tech_research_bonus = 0.03
 	icon = 15
 }
 
-reinforce_rate_idea = {
-	icon = 15
-}
 
-leadership_idea = {
-	leadership = 2
-	icon = 15
-}
+
+
 
 prestige_idea = {
 	prestige = 0.3
+	leadership = 4
 	icon = 13
 }
 
@@ -1489,33 +1486,24 @@ navy_organisation_idea = {
 	icon = 15
 }
 
-navy_build_speed_idea = {
-	icon = 15
-}
+
 
 navy_build_speed_idea_modifier = {
 	local_ship_build = -0.30
 	local_repair = 0.5
+	naval_organisation = 0.2
 	icon = 17
 }
 
 expansion_idea = {
-	badboy = -0.03
+	badboy = -0.05
+	global_assimilation_rate = 0.5
 	icon = 5
 }
 
-assimilation_idea = {
-	global_assimilation_rate = 0.5
-	icon = 17
-}
 
-consumer_goods_idea = {
-	icon = 11
-}
 
-industrial_goods_idea = {
-	icon = 11
-}
+
 
 farming_idea = {
 	farm_RGO_eff = 0.3

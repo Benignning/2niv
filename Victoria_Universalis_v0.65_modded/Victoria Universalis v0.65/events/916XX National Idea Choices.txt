@@ -148,18 +148,7 @@ province_event = {
 		owner = { set_country_flag = national_idea1 }
 	}
 
-	option = {
-		name = "+50% Army Morale"
-		owner = { set_country_flag = choosing_army_morale }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = army_morale_idea
-			}
-		}
-	}
-
+	
 	option = {
 		name = "+20% Army Organisation"
 		owner = { set_country_flag = choosing_army_organisation }
@@ -184,17 +173,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+20% Military Hospitals"
-		owner = { set_country_flag = choosing_military_hospitals }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = military_hospitals_idea
-			}
-		}
-	}
+	
 
 	option = {
 		name = "+15% Army Experience"
@@ -208,32 +187,12 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+15% Reinforce Rate"
-		owner = { set_country_flag = choosing_reinforce_rate }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = reinforce_rate_idea
-			}
-		}
-	}
+	
+
+	
 
 	option = {
-		name = "+2 Monthly Leadership"
-		owner = { set_country_flag = choosing_leadership }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = leadership_idea
-			}
-		}
-	}
-
-	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "Leadership and prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -259,17 +218,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+20% Navy Organisation"
-		owner = { set_country_flag = choosing_navy_organisation }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = navy_organisation_idea
-			}
-		}
-	}
+	
 
 	option = {
 		name = "-0.03 Infamy Decay"
@@ -327,37 +276,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+8% Consumer Goods Factory Output"
-		owner = { set_country_flag = choosing_consumer_goods }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = consumer_goods_idea
-			}
-			modifier = {
-				factor = 10
-				tech_school = commerce_tech_school
-			}
-		}
-	}
-
-	option = {
-		name = "+8% Industrial Goods Factory Output"
-		owner = { set_country_flag = choosing_industrial_goods }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = industrial_goods_idea
-			}
-			modifier = {
-				factor = 10
-				tech_school = commerce_tech_school
-			}
-		}
-	}
+	
 
 	option = {
 		name = "Unlock Domestic Migration Attraction Decision"
@@ -480,7 +399,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "Leadership and Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -519,7 +438,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = "Infamy Decay and assimilation"
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -530,17 +449,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
-		owner = {  set_country_flag = choosing_assimilation }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = assimilation_idea
-			}
-		}
-	}
+	
 
 	option = {
 		name = "+30% Farming Efficiency"
@@ -729,7 +638,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "Leadership and Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -768,7 +677,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = Infamy Decay and Asimilation
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -779,17 +688,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+0.04 Assimilation Chance & +50% Rate"
-		owner = {  set_country_flag = choosing_assimilation }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = assimilation_idea
-			}
-		}
-	}
+	
 
 	option = {
 		name = "+30% Farming Efficiency"
@@ -978,7 +877,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "Leadership and Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1004,20 +903,10 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+20% Navy Organisation"
-		owner = { set_country_flag = choosing_navy_organisation }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = navy_organisation_idea
-			}
-		}
-	}
+	
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = Infamy Decay and Asimilation
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -1072,37 +961,7 @@ province_event = {
 		}
 	}
 
-	option = {
-		name = "+8% Consumer Goods Factory Output"
-		owner = { set_country_flag = choosing_consumer_goods }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = consumer_goods_idea
-			}
-			modifier = {
-				factor = 10
-				tech_school = commerce_tech_school
-			}
-		}
-	}
-
-	option = {
-		name = "+8% Industrial Goods Factory Output"
-		owner = { set_country_flag = choosing_industrial_goods }
-		ai_chance = {
-			factor = 10
-			modifier = {
-				factor = 0
-				has_country_flag = industrial_goods_idea
-			}
-			modifier = {
-				factor = 10
-				tech_school = commerce_tech_school
-			}
-		}
-	}
+	
 
 	option = {
 		name = "+15% Education Efficiency"
@@ -1227,7 +1086,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "Leadership and Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1266,7 +1125,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = Infamy Decay and Asimilation
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -1476,7 +1335,7 @@ province_event = {
 	}
 
 	option = {
-		name = "+0.3 Monthly Prestige"
+		name = "Leadership and Prestige"
 		owner = { set_country_flag = choosing_prestige }
 		ai_chance = {
 			factor = 0
@@ -1515,7 +1374,7 @@ province_event = {
 	}
 
 	option = {
-		name = "-0.03 Infamy Decay"
+		name = Infamy Decay and Asimilation
 		owner = { set_country_flag = choosing_expansion }
 		ai_chance = {
 			factor = 10
@@ -1764,7 +1623,7 @@ country_event = {
 
 country_event = {
 	id = 91658
-	title = "+0.3 Monthly Prestige"
+	title = "Leadership and Prestige"
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 
@@ -1827,7 +1686,7 @@ country_event = {
 
 country_event = {
 	id = 91661
-	title = "-0.03 Infamy Decay"
+	title = Infamy Decay and Asimilation
 	desc = "We already have this national idea."
 	picture = national_idea_choice
 

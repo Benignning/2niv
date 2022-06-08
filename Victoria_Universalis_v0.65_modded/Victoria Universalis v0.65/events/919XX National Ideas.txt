@@ -87,51 +87,12 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 91956
-	title = "Reinforce Rate Idea"
-	desc = "Our armies reinforce faster."
-	picture = generals
 
 
-	trigger = {
-		has_country_flag = choosing_reinforce_rate
-		NOT = { has_country_flag = reinforce_rate_idea }
-		NOT = { has_country_modifier = reinforce_rate_idea }
-	}
-
-	option = {
-		name = "Great!"
-		set_country_flag = reinforce_rate_idea
-		clr_country_flag = choosing_reinforce_rate
-		add_country_modifier = { name = reinforce_rate_idea duration = -1 }
-	}
-}
-
-country_event = {
-	id = 91957
-	title = "Leadership Idea"
-	desc = "We have inreased leadership point generation."
-	picture = generals
-
-
-	trigger = {
-		has_country_flag = choosing_leadership
-		NOT = { has_country_flag = leadership_idea }
-		NOT = { has_country_modifier = leadership_idea }
-	}
-
-	option = {
-		name = "Great!"
-		set_country_flag = leadership_idea
-		clr_country_flag = choosing_leadership
-		add_country_modifier = { name = leadership_idea duration = -1 }
-	}
-}
 
 country_event = {
 	id = 91958
-	title = "Prestige Idea"
+	title = "Leadership and Prestige Idea"
 	desc = "We generate more prestige per month."
 	picture = Nobel_Literature
 
@@ -195,7 +156,7 @@ country_event = {
 country_event = {
 	id = 91961
 	title = "Expansion Idea"
-	desc = "We have increased infamy decay."
+	desc = "We have increased infamy decay and assimilation."
 	picture = Expansion
 
 
@@ -213,26 +174,7 @@ country_event = {
 	}
 }
 
-country_event = {
-	id = 91962
-	title = "Assimilation Idea"
-	desc = "We have increased assimilation rate."
-	picture = assimilation
 
-
-	trigger = {
-		has_country_flag = choosing_assimilation
-		NOT = { has_country_flag = assimilation_idea }
-		NOT = { has_country_modifier = assimilation_idea }
-	}
-
-	option = {
-		name = "Great!"
-		set_country_flag = assimilation_idea
-		clr_country_flag = choosing_assimilation
-		add_country_modifier = { name = assimilation_idea duration = -1 }
-	}
-}
 
 country_event = {
 	id = 91963
