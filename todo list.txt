@@ -1,0 +1,19 @@
+Remove all non functional ideas.
+Import any good changes/flavour from original mod.
+Change some terrain and add blue borders in needed areas.
+add in reno rivers and shange size of them.
+add in reno combat.
+add in reno units.
+change techs.
+general bug testing.
+add in trhone of lorraine meme descision with facists requirement.
+add in more cores for megali and give them armenian.
+add in assimilation modifer for byzantines.
+add in hawaii flavour.
+change techs.
+Buff Russian army techr reforms.
+Merge australia and NZ.
+Make CANZSAF a formable.
+fix economy.
+Add french flavour.
+Add austrian flavour.

@@ -3,31 +3,31 @@
 #Massawa (28000/7000 POPS)
 1849 = {
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 98
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 294
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 49
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 5292
     }
@@ -77,31 +77,31 @@
 #Assab (44000/11000 POPS)
 1851 = {
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 245
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 686
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 2107
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 12495
     }
@@ -140,73 +140,73 @@
 #Asmara (80000/20000 POPS)
 1848 = {
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 441
     }
 
     bureaucrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 29
     }
 
     officers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 49
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 245
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 1176
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 245
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 21217
     }
 
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 294
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 784
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 147
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = sunni
         size = 14308
     }
@@ -214,31 +214,31 @@
 #Akordat (28000/7000 POPS)
 1850 = {
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 245
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 147
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 686
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 147
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 12495
     }

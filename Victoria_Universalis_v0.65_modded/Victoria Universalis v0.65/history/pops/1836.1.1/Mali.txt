@@ -1257,7 +1257,7 @@
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 500
     }

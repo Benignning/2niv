@@ -87,37 +87,37 @@
     }
 
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 651
     }
 
     officers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 84
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 84
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 546
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 924
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 27132
     }
@@ -301,37 +301,37 @@
     }
 
     aristocrats = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 1234
     }
 
     clergymen = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 142
     }
 
     artisans = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 2646
     }
 
     soldiers = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 2046
     }
 
     farmers = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 13305
     }
 
     slaves = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 4704
     }
@@ -415,49 +415,49 @@
 #Aksum (196000/49000 POPS)
 1856 = {
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 672
     }
 
     bureaucrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 63
     }
 
     officers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 58
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 352
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 1470
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 2016
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 52487
     }
 
     slaves = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 5880
     }
@@ -499,7 +499,7 @@
     }
 
     slaves = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 1176
     }
@@ -543,31 +543,31 @@
     }
 
     aristocrats = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 117
     }
 
     clergymen = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 92
     }
 
     artisans = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 357
     }
 
     soldiers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 84
     }
 
     farmers = {
-        culture = tigray
+        culture = amhara
         religion = coptic
         size = 19110
     }
@@ -605,7 +605,7 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 2520
     }
@@ -715,7 +715,6 @@
         religion = sunni
         size = 48132
     }
-
 }
 #Awasa (448000/115000 POPS)
 1860 = {
@@ -865,7 +864,7 @@
     }
 
     officers = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 168
     }
@@ -895,37 +894,37 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 6888
     }
 
     aristocrats = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 1092
     }
 
     clergymen = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 84
     }
 
     soldiers = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 420
     }
 
     artisans = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 1680
     }
 
     farmers = {
-        culture = nilotic
+        culture = amhara
         religion = animist
         size = 35700
     }
@@ -1083,7 +1082,7 @@
     }
 
     clergymen = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 365
     }
@@ -1101,7 +1100,7 @@
     }
 
     labourers = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 1680
     }
@@ -1145,37 +1144,37 @@
     }
 
     aristocrats = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 420
     }
 
     clergymen = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 231
     }
 
     artisans = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 903
     }
 
     soldiers = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 1631
     }
 
     farmers = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 8295
     }
 
     slaves = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 5880
     }
@@ -1257,37 +1256,37 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 1848
     }
 
     aristocrats = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 798
     }
 
     clergymen = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 399
     }
 
     artisans = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 2016
     }
 
     soldiers = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 147
     }
 
     farmers = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 27552
     }
@@ -1326,7 +1325,7 @@
     }
 
     slaves = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 7000
     }
@@ -1358,37 +1357,37 @@
     }
 
     aristocrats = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 2205
     }
 
     clergymen = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 140
     }
 
     soldiers = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 1610
     }
 
     artisans = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 4795
     }
 
     farmers = {
-        culture = somali
+        culture = oromo
         religion = sunni
         size = 70875
     }
 
     slaves = {
-        culture = cushitic
+        culture = oromo
         religion = animist
         size = 2800
     }

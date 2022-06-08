@@ -372,37 +372,37 @@
 #Banjul (108000/27000 POPS) #now part of Gambia
 1785 = {
     aristocrats = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     officers = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 12446
     }
@@ -480,61 +480,61 @@
     }
 
     aristocrats = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     officers = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 850
     }
 
     aristocrats = {
-        culture = western_nigritic
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = western_nigritic
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = western_nigritic
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = western_nigritic
+        culture = fulbe
         religion = sunni
         size = 1549
     }
