@@ -1,5 +1,5 @@
-owner = NZL
-controller = NZL
-add_core = NZL
+owner = AUS
+controller = AUS
+add_core = AUS
 trade_goods = grain
 life_rating = 35
