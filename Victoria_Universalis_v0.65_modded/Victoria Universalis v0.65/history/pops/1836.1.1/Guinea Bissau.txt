@@ -108,37 +108,37 @@
 #Gabu (152000/38000 POPS)
 1878 = {
     aristocrats = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 498
     }
 
     bureaucrats = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     clergymen = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     artisans = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 997
     }
 
     soldiers = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 2194
     }
 
     farmers = {
-        culture = mande
+        culture = fulbe
         religion = sunni
         size = 3758
     }
@@ -180,7 +180,7 @@
     }
 
     slaves = {
-        culture = western_nigritic
+        culture = fulbe
         religion = animist
         size = 1995
     }

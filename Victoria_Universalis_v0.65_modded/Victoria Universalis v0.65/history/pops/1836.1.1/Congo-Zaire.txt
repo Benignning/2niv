@@ -3,55 +3,55 @@
 #Kinshasa (1408000/352000 POPS)
 1982 = {
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 6157
     }
 
     bureaucrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 698
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 3564
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 9975
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 4013
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 2992
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 3141
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 443229
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 76807
     }

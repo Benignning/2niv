@@ -91,6 +91,7 @@ political_decisions = {
 		}
 
 		effect = {
+		add_accepted_culture = south_andean
 			prestige = 30
 			badboy = 10
 			random_country = {

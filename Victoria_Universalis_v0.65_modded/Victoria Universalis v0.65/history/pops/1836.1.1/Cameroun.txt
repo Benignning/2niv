@@ -431,37 +431,37 @@
     }
 
     aristocrats = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 275
     }
 
     clergymen = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 575
     }
 
     soldiers = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 12850
     }
 
     slaves = {
-        culture = tiv
+        culture = fulbe
         religion = animist
         size = 4000
     }
@@ -530,67 +530,67 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 1100
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 18300
     }
 
     aristocrats = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 700
     }
 
     clergymen = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 1800
     }
 
     soldiers = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 23100
     }
 
     slaves = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 12000
     }

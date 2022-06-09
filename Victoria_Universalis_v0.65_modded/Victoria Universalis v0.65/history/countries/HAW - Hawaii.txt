@@ -1,6 +1,8 @@
 1836.1.2 = {
 	capital = 658
 	primary_culture = polynesian
+	culture = micronesian
+	culture = melanesian
 	religion = animist
 	government = absolute_monarchy
 	plurality = 0.0

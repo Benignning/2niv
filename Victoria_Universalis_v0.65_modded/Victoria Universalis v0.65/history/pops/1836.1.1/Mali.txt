@@ -3,37 +3,37 @@
 #Bamako (296000/74000 POPS)
 1794 = {
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 847
     }
 
     bureaucrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 199
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 448
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 1895
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 1296
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 30224
     }
@@ -69,37 +69,37 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 248
     }
 
     clergymen = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     artisans = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 698
     }
 
     soldiers = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 2194
     }
 
     farmers = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 12717
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 11970
     }
@@ -107,43 +107,43 @@
 #Segu (520000/130000 POPS)
 1800 = {
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 1844
     }
 
     bureaucrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 348
     }
 
     officers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 199
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 946
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 2394
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 2194
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 67630
     }
@@ -179,37 +179,37 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 299
     }
 
     clergymen = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     artisans = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 897
     }
 
     soldiers = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 199
     }
 
     farmers = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 16408
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 21945
     }
@@ -217,31 +217,31 @@
 #Mourdiah (128000/32000 POPS)
 1801 = {
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 199
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 498
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 5087
     }
@@ -277,37 +277,37 @@
     }
 
     aristocrats = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     clergymen = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     artisans = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 399
     }
 
     soldiers = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     farmers = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 7231
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 5985
     }
@@ -415,31 +415,31 @@
 #Kayes (200000/50000 POPS)
 1795 = {
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 248
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 49
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 33365
     }
@@ -475,7 +475,7 @@
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 7980
     }
@@ -513,37 +513,37 @@
     }
 
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 248
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 598
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 18802
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 11970
     }
@@ -551,31 +551,31 @@
 #Kita (152000/38000 POPS)
 1797 = {
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 399
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 199
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 897
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 1246
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 13216
     }
@@ -611,7 +611,7 @@
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 11970
     }
@@ -621,31 +621,31 @@
 #Bourgouni (272000/68000 POPS)
 1798 = {
     aristocrats = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 1097
     }
 
     clergymen = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 498
     }
 
     artisans = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 2094
     }
 
     soldiers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 547
     }
 
     farmers = {
-        culture = bambara
+        culture = fulbe
         religion = animist
         size = 47729
     }
@@ -681,37 +681,37 @@
     }
 
     aristocrats = {
-        culture = senufo
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     clergymen = {
-        culture = senufo
+        culture = fulbe
         religion = animist
         size = 148
     }
 
     artisans = {
-        culture = senufo
+        culture = fulbe
         religion = animist
         size = 498
     }
 
     soldiers = {
-        culture = senufo
+        culture = fulbe
         religion = animist
         size = 99
     }
 
     farmers = {
-        culture = senufo
+        culture = fulbe
         religion = animist
         size = 9126
     }
 
     slaves = {
-        culture = mande
+        culture = fulbe
         religion = animist
         size = 5985
     }

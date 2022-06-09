@@ -3,43 +3,43 @@
 #Accra (132000/33000 POPS) #Danish Tradepost in 1836
 1907 = {
     aristocrats = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 647
     }
 
     clergymen = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 323
     }
 
     artisans = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 1320
     }
 
     soldiers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 2992
     }
 
     soldiers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 1345
     }
 
     farmers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 20298
     }
 
     slaves = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 5985
     }
@@ -143,61 +143,61 @@
 #Kumasi (1108000/277000 POPS)
 1910 = {
     aristocrats = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 5236
     }
 
     bureaucrats = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 263
     }
 
     officers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 551
     }
 
     clergymen = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 2706
     }
 
     artisans = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 9975
     }
 
     artisans = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 937
     }
 
     soldiers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 2992
     }
 
     soldiers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 997
     }
 
     farmers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 214236
     }
 
     slaves = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 38403
     }
@@ -205,37 +205,37 @@
 #Kintampo (520000/130000 POPS)
 1911 = {
     aristocrats = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 2533
     }
 
     clergymen = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 1306
     }
 
     artisans = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 5236
     }
 
     soldiers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 1995
     }
 
     farmers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 94164
     }
 
     slaves = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 24438
     }
@@ -243,97 +243,97 @@
 #Wa (564000/141000 POPS)
 1912 = {
     aristocrats = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 946
     }
 
     clergymen = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 522
     }
 
     artisans = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 2094
     }
 
     soldiers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 1995
     }
 
     farmers = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 44289
     }
 
     aristocrats = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 1137
     }
 
     clergymen = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 611
     }
 
     artisans = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 2965
     }
 
     soldiers = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 611
     }
 
     farmers = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 54024
     }
 
     slaves = {
-        culture = dyula
+        culture = fulbe
         religion = sunni
         size = 10473
     }
 
     aristocrats = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 438
     }
 
     clergymen = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 263
     }
 
     artisans = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 1046
     }
 
     soldiers = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 263
     }
 
     farmers = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 18952
     }
@@ -341,67 +341,67 @@
 #Tamale (212000/53000 POPS)
 1913 = {
     aristocrats = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 348
     }
 
     clergymen = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 172
     }
 
     artisans = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 1046
     }
 
     soldiers = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 758
     }
 
     farmers = {
-        culture = gur
+        culture = fulbe
         religion = animist
         size = 38064
     }
 
     slaves = {
-        culture = akan
+        culture = fulbe
         religion = animist
         size = 3491
     }
 
     aristocrats = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 611
     }
 
     clergymen = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 348
     }
 
     artisans = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 1310
     }
 
     soldiers = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 348
     }
 
     farmers = {
-        culture = mossi
+        culture = fulbe
         religion = animist
         size = 18327
     }

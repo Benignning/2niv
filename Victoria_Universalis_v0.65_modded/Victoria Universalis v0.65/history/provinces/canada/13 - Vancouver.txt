@@ -1,6 +1,6 @@
 owner = RPL
-controller = RPL
-add_core = RPL
+controller = CAN
+add_core = CAN
 add_core = CAN
 add_core = COL
 trade_goods = iron

@@ -246,127 +246,127 @@
 #Abeche (136000/34000 POPS)
 1821 = {
     aristocrats = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     bureaucrats = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     officers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 550
     }
 
     aristocrats = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 400
     }
 
     officers = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     bureaucrats = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 600
     }
 
     soldiers = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = teda
+        culture = fulbe
         religion = sunni
         size = 20733
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 300
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 7000
     }
 
     slaves = {
-        culture = teda
+        culture = fulbe
         religion = animist
         size = 300
     }
@@ -374,79 +374,79 @@
 #Am Timan (168000/42000 POPS)
 1822 = {
     slaves = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 1900
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 175
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 4300
     }
 
     aristocrats = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     bureaucrats = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 175
     }
 
     soldiers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 3000
     }
@@ -454,103 +454,103 @@
 #Mongo (184000/46000 POPS)
 1823 = {
     aristocrats = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     clergymen = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 1225
     }
 
     farmers = {
-        culture = fur
+        culture = fulbe
         religion = sunni
         size = 5000
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 7269
     }
 
     aristocrats = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 300
     }
 
     clergymen = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     bureaucrats = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 1500
     }
 
     soldiers = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 1000
     }
 
     farmers = {
-        culture = ubangian
+        culture = fulbe
         religion = sunni
         size = 7246
     }
 
     slaves = {
-        culture = ubangian
+        culture = fulbe
         religion = animist
         size = 2000
     }

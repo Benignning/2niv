@@ -77,61 +77,61 @@
 #Assab (44000/11000 POPS)
 1851 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 245
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 686
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 2107
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 12495
     }
 
     aristocrats = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 147
     }
 
     clergymen = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 392
     }
 
     soldiers = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 98
     }
 
     farmers = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 7056
     }
@@ -140,73 +140,73 @@
 #Asmara (80000/20000 POPS)
 1848 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 441
     }
 
     bureaucrats = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 29
     }
 
     officers = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 49
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 245
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 1176
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 245
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 21217
     }
 
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 294
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 784
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 147
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 14308
     }
@@ -214,31 +214,31 @@
 #Akordat (28000/7000 POPS)
 1850 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 245
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 147
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 686
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 147
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = coptic
         size = 12495
     }

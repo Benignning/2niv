@@ -126,103 +126,103 @@
 #2001 - Mbanza (180000/45000 POPS)
 2001 = {
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 100
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 400
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 7350
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 1200
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 12450
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 4000
     }
 
     aristocrats = {
-        culture = kavango
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = kavango
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = kavango
+        culture = fulbe
         religion = animist
         size = 700
     }
 
     soldiers = {
-        culture = kavango
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = kavango
+        culture = fulbe
         religion = animist
         size = 13250
     }
 
     slaves = {
-        culture = kavango
+        culture = fulbe
         religion = animist
         size = 3500
     }
