@@ -11,7 +11,7 @@ political_decisions = {
 		}
 		allow = {
 			OR = {
-				analytic_philosophy = 1
+				empiricism = 1
 				AND = {
 					citizens_rights = all_voting_pops
 					government = democracy

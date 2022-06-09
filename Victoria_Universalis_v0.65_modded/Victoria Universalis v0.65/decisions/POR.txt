@@ -7,27 +7,27 @@ political_decisions = {
 				BRZ = {
 					exists = yes
 					NOT = { has_country_flag = portuguese_offer }
-					NOT = { nationalism_n_imperialism = 1 }
+					
 				}
 				BAH = {
 					exists = yes
 					NOT = { has_country_flag = portuguese_offer }
-					NOT = { nationalism_n_imperialism = 1 }
+					
 				}
 				MRN = {
 					exists = yes
 					NOT = { has_country_flag = portuguese_offer }
-					NOT = { nationalism_n_imperialism = 1 }
+					
 				}
 				GRP = {
 					exists = yes
 					NOT = { has_country_flag = portuguese_offer }
-					NOT = { nationalism_n_imperialism = 1 }
+					
 				}
 				PNB = {
 					exists = yes
 					NOT = { has_country_flag = portuguese_offer }
-					NOT = { nationalism_n_imperialism = 1 }
+					
 				}
 			}
 		}
@@ -42,7 +42,7 @@ political_decisions = {
 						}
 					}
 					NOT = {
-						nationalism_n_imperialism = 1
+						
 						has_country_flag = portuguese_offer
 					}
 				}
@@ -55,7 +55,7 @@ political_decisions = {
 						}
 					}
 					NOT = {
-						nationalism_n_imperialism = 1
+						
 						has_country_flag = portuguese_offer
 					}
 				}
@@ -68,7 +68,7 @@ political_decisions = {
 						}
 					}
 					NOT = {
-						nationalism_n_imperialism = 1
+						
 						has_country_flag = portuguese_offer
 					}
 				}
@@ -81,7 +81,7 @@ political_decisions = {
 						}
 					}
 					NOT = {
-						nationalism_n_imperialism = 1
+						
 						has_country_flag = portuguese_offer
 					}
 				}
@@ -94,7 +94,7 @@ political_decisions = {
 						}
 					}
 					NOT = {
-						nationalism_n_imperialism = 1
+						
 						has_country_flag = portuguese_offer
 					}
 				}

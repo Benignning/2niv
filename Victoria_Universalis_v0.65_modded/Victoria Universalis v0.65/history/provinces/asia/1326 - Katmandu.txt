@@ -1,5 +1,5 @@
-owner = NEP
-controller = NEP
-add_core = NEP
+owner = EIC
+controller = EIC
+add_core = EIC
 trade_goods = tea_leaves
 life_rating = 35
