@@ -3,67 +3,67 @@
 #Comoro Islands (56000/14000 POPS)
 2123 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 325
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 3425
     }
 
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 300
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 8219
     }
 
     slaves = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 281
     }
@@ -71,37 +71,37 @@
 #Mayotte (8000/2000 POPS)
 2124 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 15
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 25
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 10
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     slaves = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 250
     }

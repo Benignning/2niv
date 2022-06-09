@@ -3,79 +3,79 @@
 #Dar es Salaam (220000/55000 POPS)
 2036 = {
     aristocrats = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 950
     }
 
     bureaucrats = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     officers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 125
     }
 
     clergymen = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 525
     }
 
     artisans = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 2000
     }
 
     soldiers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     farmers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 32825
     }
 
     slaves = {
-        culture = kilombero
+        culture = fulbe
         religion = animist
         size = 14000
     }
 
     aristocrats = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 3650
     }
@@ -83,67 +83,67 @@
 #Tanga (88000/22000 POPS)
 2037 = {
     aristocrats = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 325
     }
 
     clergymen = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 175
     }
 
     artisans = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 725
     }
 
     soldiers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 175
     }
 
     farmers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 11600
     }
 
     slaves = {
-        culture = kilombero
+        culture = fulbe
         religion = animist
         size = 6000
     }
 
     aristocrats = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = lacustrine_bantu
+        culture = fulbe
         religion = sunni
         size = 2650
     }
@@ -151,67 +151,67 @@
 #Kilwa (188000/47000 POPS)
 2038 = {
     aristocrats = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 550
     }
 
     clergymen = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 275
     }
 
     artisans = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 1125
     }
 
     soldiers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 300
     }
 
     farmers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 14750
     }
 
     aristocrats = {
-        culture = yao
+        culture = fulbe
         religion = animist
         size = 350
     }
 
     clergymen = {
-        culture = yao
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = yao
+        culture = fulbe
         religion = animist
         size = 950
     }
 
     soldiers = {
-        culture = yao
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = yao
+        culture = fulbe
         religion = animist
         size = 17300
     }
 
     slaves = {
-        culture = yao
+        culture = fulbe
         religion = animist
         size = 10000
     }
@@ -999,103 +999,103 @@
 #Zanzibar (156000/39000 POPS)
 2048 = {
     aristocrats = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 250
     }
 
     clergymen = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 125
     }
 
     artisans = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 525
     }
 
     soldiers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 1100
     }
 
     farmers = {
-        culture = swahili
+        culture = fulbe
         religion = sunni
         size = 7100
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     bureaucrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     officers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 450
     }
 
     aristocrats = {
-        culture = kilombero
+        culture = fulbe
         religion = sunni
         size = 400
     }
 
     clergymen = {
-        culture = kilombero
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     artisans = {
-        culture = kilombero
+        culture = fulbe
         religion = sunni
         size = 1050
     }
 
     soldiers = {
-        culture = kilombero
+        culture = fulbe
         religion = sunni
         size = 225
     }
 
     farmers = {
-        culture = kilombero
+        culture = fulbe
         religion = sunni
         size = 19125
     }
 
     slaves = {
-        culture = kilombero
+        culture = fulbe
         religion = animist
         size = 8000
     }

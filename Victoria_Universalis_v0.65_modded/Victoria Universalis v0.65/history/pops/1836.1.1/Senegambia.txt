@@ -4,55 +4,55 @@
 #Dakar (8000/2000 POPS)
 1783 = {
     aristocrats = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     officers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 17800
     }
 
     artisans = {
-        culture = french
+        culture = fulbe
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = fulbe
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = french
+        culture = fulbe
         religion = catholic
         size = 100
     }
@@ -285,31 +285,31 @@
 #Saint-Louis (24000/6000 POPS)
 1784 = {
     aristocrats = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     artisans = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 13700
     }
 
     slaves = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 1100
     }
@@ -351,19 +351,19 @@
     }
 
     artisans = {
-        culture = french
+        culture = fulbe
         religion = catholic
         size = 100
     }
 
     soldiers = {
-        culture = french
+        culture = fulbe
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = french
+        culture = fulbe
         religion = catholic
         size = 100
     }
@@ -444,37 +444,37 @@
     }
 
     aristocrats = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     officers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 500
     }
 
     soldiers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     farmers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 2834
     }
@@ -586,37 +586,37 @@
     }
 
     slaves = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 11970
     }
 
     aristocrats = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     clergymen = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     artisans = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     soldiers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 698
     }
 
     farmers = {
-        culture = wolof
+        culture = fulbe
         religion = sunni
         size = 997
     }

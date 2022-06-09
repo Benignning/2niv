@@ -3,55 +3,55 @@
 #Fernando Po (11000/2750 POPS)
 1955 = {
     aristocrats = {
-        culture = spanish
+        culture = fulbe
         religion = catholic
         size = 3
     }
 
     bureaucrats = {
-        culture = spanish
+        culture = fulbe
         religion = catholic
         size = 2
     }
 
     clergymen = {
-        culture = spanish
+        culture = fulbe
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = spanish
+        culture = fulbe
         religion = catholic
         size = 5
     }
 
     soldiers = {
-        culture = spanish
+        culture = fulbe
         religion = catholic
         size = 5
     }
 
     artisans = {
-        culture = fang
+        culture = fulbe
         religion = catholic
         size = 120
     }
 
     soldiers = {
-        culture = fang
+        culture = fulbe
         religion = catholic
         size = 50
     }
 
     farmers = {
-        culture = fang
+        culture = fulbe
         religion = catholic
         size = 1530
     }
 
     slaves = {
-        culture = fang
+        culture = fulbe
         religion = animist
         size = 1100
     }

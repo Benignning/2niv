@@ -170,31 +170,31 @@
 #Zemio (44000/11000 POPS)
 1969 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 5475
     }
@@ -232,31 +232,31 @@
 #Bangassou (56000/14000 POPS)
 1970 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = animist
         size = 900
     }
@@ -295,31 +295,31 @@
 #Ndele (28000/7000 POPS)
 1971 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 100
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 900
     }

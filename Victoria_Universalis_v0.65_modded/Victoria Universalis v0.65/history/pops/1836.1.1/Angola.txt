@@ -3,25 +3,25 @@
 #Luanda (164000/41000 POPS)
 1999 = {
     aristocrats = {
-        culture = portuguese
+        culture = fulbe
         religion = catholic
         size = 150
     }
 
     clergymen = {
-        culture = portuguese
+        culture = fulbe
         religion = catholic
         size = 50
     }
 
     artisans = {
-        culture = portuguese
+        culture = fulbe
         religion = catholic
         size = 500
     }
 
     soldiers = {
-        culture = portuguese
+        culture = fulbe
         religion = catholic
         size = 100
     }
@@ -270,67 +270,67 @@
 #Cabinda (116000/29000 POPS)
 2000 = {
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 123
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 73
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 348
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 73
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 6357
     }
 
     slaves = {
-        culture = bakongo
+        culture = fulbe
         religion = animist
         size = 4987
     }
 
     aristocrats = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 422
     }
 
     clergymen = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 223
     }
 
     artisans = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 897
     }
 
     soldiers = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 223
     }
 
     farmers = {
-        culture = bakongo
+        culture = fulbe
         religion = catholic
         size = 15185
     }
@@ -408,7 +408,7 @@
     }
 
     slaves = {
-        culture = khoisan
+        culture = fulbe
         religion = animist
         size = 5800
     }
@@ -598,7 +598,7 @@
     }
 
     slaves = {
-        culture = khoisan
+        culture = fulbe
         religion = animist
         size = 1250
     }

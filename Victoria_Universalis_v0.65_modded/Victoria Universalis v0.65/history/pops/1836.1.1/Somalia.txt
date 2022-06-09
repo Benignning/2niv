@@ -335,61 +335,61 @@
 #Jibuti (28000/7000 POPS) #now part of Djibouti
 1875 = {
     aristocrats = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 150
     }
 
     soldiers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 25
     }
 
     farmers = {
-        culture = amhara
+        culture = fulbe
         religion = sunni
         size = 2700
     }
 
     aristocrats = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     clergymen = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 75
     }
 
     artisans = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 200
     }
 
     soldiers = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 50
     }
 
     farmers = {
-        culture = afar
+        culture = fulbe
         religion = sunni
         size = 3625
     }

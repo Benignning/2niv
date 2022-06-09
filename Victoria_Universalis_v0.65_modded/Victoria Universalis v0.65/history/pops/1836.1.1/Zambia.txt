@@ -249,97 +249,97 @@
     }
 
     aristocrats = {
-        culture = nyasa
+        culture = fulbe
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = nyasa
+        culture = fulbe
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = nyasa
+        culture = fulbe
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = nyasa
+        culture = fulbe
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = nyasa
+        culture = fulbe
         religion = animist
         size = 7300
     }
 
     slaves = {
-        culture = nyasa
+        culture = fulbe
         religion = animist
         size = 2000
     }
 
     aristocrats = {
-        culture = nguni
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = nguni
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = nguni
+        culture = fulbe
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = nguni
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = nguni
+        culture = fulbe
         religion = animist
         size = 4575
     }
 
     aristocrats = {
-        culture = sena
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = sena
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = sena
+        culture = fulbe
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = sena
+        culture = fulbe
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = sena
+        culture = fulbe
         religion = animist
         size = 3650
     }

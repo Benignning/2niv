@@ -239,25 +239,25 @@
 #Walvis Bay (4000/1000 POPS)
 2083 = {
     aristocrats = {
-        culture = khoisan
+        culture = fulbe
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = khoisan
+        culture = fulbe
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = khoisan
+        culture = fulbe
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = khoisan
+        culture = fulbe
         religion = animist
         size = 1925
     }

@@ -3,31 +3,31 @@
 #Massawa (28000/7000 POPS)
 1849 = {
     aristocrats = {
-        culture = amhara
+        culture = misri
         religion = sunni
         size = 98
     }
 
     clergymen = {
-        culture = amhara
+        culture = misri
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = amhara
+        culture = misri
         religion = sunni
         size = 294
     }
 
     soldiers = {
-        culture = amhara
+        culture = misri
         religion = sunni
         size = 49
     }
 
     farmers = {
-        culture = amhara
+        culture = misri
         religion = sunni
         size = 5292
     }
@@ -45,31 +45,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = misri
         religion = sunni
         size = 147
     }
 
     clergymen = {
-        culture = bedouin
+        culture = misri
         religion = sunni
         size = 147
     }
 
     artisans = {
-        culture = bedouin
+        culture = misri
         religion = sunni
         size = 392
     }
 
     soldiers = {
-        culture = bedouin
+        culture = misri
         religion = sunni
         size = 49
     }
 
     farmers = {
-        culture = bedouin
+        culture = misri
         religion = sunni
         size = 7056
     }

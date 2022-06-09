@@ -3,31 +3,31 @@
 #Freetown (400000/100000 POPS)
 1884 = {
     aristocrats = {
-        culture = afro_caribbean
+        culture = fulbe
         religion = protestant
         size = 300
     }
 
     officers = {
-        culture = afro_caribbean
+        culture = fulbe
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = afro_caribbean
+        culture = fulbe
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = afro_caribbean
+        culture = fulbe
         religion = protestant
         size = 4950
     }
 
     soldiers = {
-        culture = afro_caribbean
+        culture = fulbe
         religion = protestant
         size = 100
     }

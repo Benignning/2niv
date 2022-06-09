@@ -2368,43 +2368,43 @@
 #Kuka (960000/240000 POPS)
 1951 = {
     aristocrats = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 4588
     }
 
     bureaucrats = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 798
     }
 
     officers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 698
     }
 
     clergymen = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 2493
     }
 
     artisans = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 9576
     }
 
     soldiers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 2394
     }
 
     farmers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 159600
     }
@@ -2418,31 +2418,31 @@
 #Nguru (768000/192000 POPS)
 1952 = {
     aristocrats = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 2194
     }
 
     clergymen = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 1296
     }
 
     artisans = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 3990
     }
 
     soldiers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 2194
     }
 
     farmers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 74313
     }
@@ -2486,31 +2486,31 @@
 #Dikoa (816000/204000 POPS)
 1953 = {
     aristocrats = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 3890
     }
 
     clergymen = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 1995
     }
 
     artisans = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 7880
     }
 
     soldiers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 1995
     }
 
     farmers = {
-        culture = kanuri
+        culture = fulbe
         religion = sunni
         size = 143839
     }
@@ -2522,31 +2522,31 @@
     }
 
     aristocrats = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     clergymen = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 199
     }
 
     artisans = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 399
     }
 
     soldiers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 99
     }
 
     farmers = {
-        culture = bedouin
+        culture = fulbe
         religion = sunni
         size = 7182
     }
