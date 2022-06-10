@@ -1,5 +1,5 @@
-owner = MOS
-controller = MOS
+
+
 add_core = MOS
 trade_goods = iron
 life_rating = 35

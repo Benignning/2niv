@@ -1,5 +1,5 @@
-owner = ADR
-controller = ADR
+
+
 add_core = ADR
 trade_goods = wool
 life_rating = 35

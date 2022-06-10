@@ -1,5 +1,5 @@
-owner = KBO
-controller = KBO
+
+
 add_core = KBO
 add_core = NIG
 trade_goods = grain

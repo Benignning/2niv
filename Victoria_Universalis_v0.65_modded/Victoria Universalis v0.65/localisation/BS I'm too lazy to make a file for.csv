@@ -1,0 +1,16 @@
+dreadnought;Battleship;;;;;;;;;;;;;x
+battleship;Heavy Cruiser;;;;;;;;;;;;;x
+cruiser;Light Cruiser;;;;;;;;;;;;;x
+monitor;Destroyer;;;;;;;;;;;;;x
+dreadnoughts;Battleship;;;;;;;;;;;;;;;;;;;;x
+pre_dreadnought;Heavy Cruiser;;;;;;;;;;;;;;;;;;;;x
+protected_cruisers;Light Cruiser;;;;;;;;;;;;;;;;;;;;x
+monitors;Destroyer;;;;;;;;;;;;;;;;;;;;x
+offensive_infantry_activation;Activate Offensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+defensive_infantry_activation;Activate Defensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+offensive_artillery_activation;Activate Offensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+defensive_artillery_activation;Activate Defensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infantry_offensive;Offensive Infantry;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+infantry_defensive;Defensive Infantry;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+artillery_offensive;Offensive Artillery;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+artillery_defensive;Defensive Artillery;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
