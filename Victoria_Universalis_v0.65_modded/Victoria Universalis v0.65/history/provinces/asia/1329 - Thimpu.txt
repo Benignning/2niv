@@ -1,5 +1,5 @@
-owner = EIC
-controller = EIC
-add_core = EIC
+owner = BHU
+controller = BHU
+add_core = BHU
 trade_goods = wool
 life_rating = 35

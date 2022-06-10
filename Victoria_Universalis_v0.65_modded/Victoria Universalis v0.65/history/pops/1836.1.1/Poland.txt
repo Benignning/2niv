@@ -29,7 +29,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 8250
+        size = 4125
     }
 
     soldiers = {
@@ -46,14 +46,14 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 25
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 975
+        religion = jewish
+        size = 487
     }
 
     clergymen = {
@@ -65,7 +65,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 25
     }
 
     soldiers = {
@@ -78,6 +78,24 @@
         culture = polish
         religion = catholic
         size = 920
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4125
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 488
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 25
     }
 }
 #Kolberg (160000/40000 POPS) #Part of Poland since 1945
@@ -97,7 +115,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1900
+        size = 950
     }
 
     soldiers = {
@@ -121,7 +139,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 50
     }
 
     soldiers = {
@@ -134,6 +152,18 @@
         culture = polish
         religion = catholic
         size = 1825
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 950
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 50
     }
 }
 #Koslin (160000/40000 POPS) #Part of Poland since 1945
@@ -153,7 +183,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1350
+        size = 675
     }
 
     soldiers = {
@@ -177,7 +207,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 550
+        size = 275
     }
 
     soldiers = {
@@ -201,7 +231,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 100
+        size = 50
     }
 
     soldiers = {
@@ -214,6 +244,24 @@
         culture = polish
         religion = catholic
         size = 1825
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 675
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 275
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 50
     }
 }
 #Brandenburg Region (208000) #see Poland.txt for balance of region
@@ -235,7 +283,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 2400
+        size = 1200
     }
 
     soldiers = {
@@ -252,8 +300,20 @@
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 200
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
     }
 }
 #Silesia Region (2568000) #see Czechia.txt and Germany.txt for balance of region
@@ -305,13 +365,13 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 10000
+        size = 5000
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 6875
+        size = 3437
     }
 
     soldiers = {
@@ -335,7 +395,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 900
+        size = 450
     }
 
     soldiers = {
@@ -352,37 +412,37 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 25
     }
 
     clerks = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 25
     }
 
     craftsmen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 150
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 1325
+        religion = jewish
+        size = 662
     }
 
     soldiers = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 25
     }
 
     farmers = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 450
     }
 
@@ -395,7 +455,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 1750
+        size = 875
     }
 
     soldiers = {
@@ -408,6 +468,36 @@
         culture = polish
         religion = catholic
         size = 31600
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3438
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 450
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 663
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 875
     }
 }
 #Liegnitz (484000/121000 POPS)
@@ -427,31 +517,31 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 20450
+        size = 10225
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 20000
+        size = 10000
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 20000
+        size = 10000
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 20000
+        size = 10000
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 20000
+        size = 10000
     }
 
     soldiers = {
@@ -481,7 +571,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 3875
+        size = 1937
     }
 
     soldiers = {
@@ -499,7 +589,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4865
+        size = 2432
     }
 
     soldiers = {
@@ -517,13 +607,61 @@
     artisans = {
         culture = czech
         religion = catholic
-        size = 975
+        size = 487
     }
 
     soldiers = {
         culture = czech
         religion = catholic
         size = 10
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10225
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 10000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 1938
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2433
+    }
+
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 488
     }
 }
 #Oppeln (492000/123000 POPS)
@@ -543,7 +681,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 5000
+        size = 2500
     }
 
     soldiers = {
@@ -567,7 +705,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 13750
+        size = 6875
     }
 
     soldiers = {
@@ -585,7 +723,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1950
+        size = 975
     }
 
     soldiers = {
@@ -603,13 +741,13 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 20000
+        size = 10000
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 5000
+        size = 2500
     }
 
     soldiers = {
@@ -633,13 +771,49 @@
     artisans = {
         culture = czech
         religion = catholic
-        size = 3925
+        size = 1962
     }
 
     soldiers = {
         culture = czech
         religion = catholic
         size = 25
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 6875
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 975
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2500
+    }
+
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 1963
     }
 }
 #Kattowitz (452000/113000 POPS)
@@ -659,7 +833,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 7075
+        size = 3537
     }
 
     soldiers = {
@@ -683,7 +857,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 16625
+        size = 8312
     }
 
     soldiers = {
@@ -707,7 +881,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 65325
+        size = 32662
     }
 
     soldiers = {
@@ -731,7 +905,7 @@
     artisans = {
         culture = czech
         religion = catholic
-        size = 8850
+        size = 4425
     }
 
     soldiers = {
@@ -744,6 +918,30 @@
         culture = czech
         religion = catholic
         size = 1000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3538
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 8313
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 32663
+    }
+
+    farmers = {
+        culture = czech
+        religion = catholic
+        size = 4425
     }
 }
 #under the rule of Austria in 1836
@@ -770,7 +968,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4000
+        size = 2000
     }
 
     soldiers = {
@@ -794,13 +992,25 @@
     artisans = {
         culture = south_german
         religion = catholic
-        size = 1925
+        size = 962
     }
 
     soldiers = {
         culture = south_german
         religion = catholic
         size = 25
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 963
     }
 }
 #West Prussia Region (688000)
@@ -834,7 +1044,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 9500
+        size = 4750
     }
 
     soldiers = {
@@ -851,14 +1061,14 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 5
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 395
+        religion = jewish
+        size = 197
     }
 
     clergymen = {
@@ -870,7 +1080,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 5000
+        size = 2500
     }
 
     soldiers = {
@@ -883,6 +1093,24 @@
         culture = polish
         religion = catholic
         size = 1875
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 4750
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 198
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2500
     }
 }
 #Tuchel (180000/45000 POPS)
@@ -902,7 +1130,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1850
+        size = 925
     }
 
     soldiers = {
@@ -926,7 +1154,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 50
+        size = 25
     }
 
     soldiers = {
@@ -950,7 +1178,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 350
+        size = 175
     }
 
     soldiers = {
@@ -963,6 +1191,24 @@
         culture = polish
         religion = catholic
         size = 6525
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 925
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 25
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 175
     }
 }
 #Deutsche Krone (128000/32000 POPS)
@@ -982,7 +1228,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1250
+        size = 625
     }
 
     soldiers = {
@@ -1006,7 +1252,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 350
+        size = 175
     }
 
     soldiers = {
@@ -1019,6 +1265,18 @@
         culture = polish
         religion = catholic
         size = 6625
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 625
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 175
     }
 }
 #Elbing (148000/37000 POPS)
@@ -1038,7 +1296,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1400
+        size = 700
     }
 
     soldiers = {
@@ -1062,7 +1320,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 450
+        size = 225
     }
 
     soldiers = {
@@ -1075,6 +1333,18 @@
         culture = polish
         religion = catholic
         size = 7475
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 700
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 225
     }
 }
 #Torun (156000/44000 POPS)
@@ -1094,7 +1364,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 800
+        size = 400
     }
 
     soldiers = {
@@ -1111,14 +1381,14 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 5
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 145
+        religion = jewish
+        size = 72
     }
 
     clergymen = {
@@ -1130,7 +1400,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 100
+        size = 50
     }
 
     soldiers = {
@@ -1154,7 +1424,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 1300
+        size = 650
     }
 
     soldiers = {
@@ -1167,6 +1437,30 @@
         culture = polish
         religion = catholic
         size = 24225
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 400
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 73
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 50
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 650
     }
 }
 #East Prussia Region (396000) #see Russia.txt and Lithuania.txt for balance of region
@@ -1188,7 +1482,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 2900
+        size = 1450
     }
 
     soldiers = {
@@ -1212,7 +1506,7 @@
     artisans = {
         culture = polish
         religion = protestant
-        size = 1800
+        size = 900
     }
 
     soldiers = {
@@ -1236,7 +1530,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 250
+        size = 125
     }
 
     soldiers = {
@@ -1249,6 +1543,24 @@
         culture = polish
         religion = catholic
         size = 4625
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1450
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 900
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 125
     }
 }
 #Posen-Wielkopolska Region (1704000)
@@ -1282,7 +1594,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 2650
+        size = 1325
     }
 
     soldiers = {
@@ -1306,7 +1618,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 1750
+        size = 875
     }
 
     soldiers = {
@@ -1323,14 +1635,14 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 25
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 1475
+        religion = jewish
+        size = 737
     }
 
     aristocrats = {
@@ -1348,7 +1660,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4000
+        size = 2000
     }
 
     soldiers = {
@@ -1361,6 +1673,30 @@
         culture = polish
         religion = catholic
         size = 74400
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1325
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 875
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 738
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2000
     }
 }
 #Bromberg (212000/53000 POPS)
@@ -1380,7 +1716,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1050
+        size = 525
     }
 
     soldiers = {
@@ -1404,7 +1740,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 350
+        size = 175
     }
 
     soldiers = {
@@ -1421,14 +1757,14 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 20
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 1230
+        religion = jewish
+        size = 615
     }
 
     aristocrats = {
@@ -1446,7 +1782,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 1200
+        size = 600
     }
 
     soldiers = {
@@ -1459,6 +1795,30 @@
         culture = polish
         religion = catholic
         size = 22375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 525
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 175
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 615
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 600
     }
 }
 #Gniezno (456000/116000 POPS)
@@ -1478,7 +1838,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 750
+        size = 375
     }
 
     soldiers = {
@@ -1502,7 +1862,7 @@
     artisans = {
         culture = north_german
         religion = catholic
-        size = 500
+        size = 250
     }
 
     soldiers = {
@@ -1519,14 +1879,14 @@
 
     clergymen = {
         culture = ashkenazi
-		religion = jewish
+        religion = jewish
         size = 25
     }
 
     artisans = {
         culture = ashkenazi
-		religion = jewish
-        size = 1225
+        religion = jewish
+        size = 612
     }
 
     aristocrats = {
@@ -1544,7 +1904,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4500
+        size = 2250
     }
 
     soldiers = {
@@ -1557,6 +1917,30 @@
         culture = polish
         religion = catholic
         size = 89325
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 375
+    }
+
+    farmers = {
+        culture = north_german
+        religion = catholic
+        size = 250
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 613
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2250
     }
 }
 #under the rule of Russia in 1836 (496000)
@@ -1589,7 +1973,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
@@ -1613,7 +1997,7 @@
     artisans = {
         culture = polish
         religion = protestant
-        size = 500
+        size = 250
     }
 
     soldiers = {
@@ -1637,7 +2021,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 200
+        size = 100
     }
 
     soldiers = {
@@ -1661,7 +2045,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
@@ -1674,6 +2058,30 @@
         culture = ashkenazi
         religion = jewish
         size = 3000
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1000
     }
 }
 #Kalicz (252000/63000 POPS)
@@ -1693,7 +2101,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 2600
+        size = 1300
     }
 
     soldiers = {
@@ -1717,7 +2125,7 @@
     artisans = {
         culture = polish
         religion = protestant
-        size = 150
+        size = 75
     }
 
     soldiers = {
@@ -1741,7 +2149,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 200
+        size = 100
     }
 
     soldiers = {
@@ -1765,7 +2173,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1600
+        size = 800
     }
 
     soldiers = {
@@ -1778,6 +2186,30 @@
         culture = ashkenazi
         religion = jewish
         size = 2300
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 1300
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 75
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 800
     }
 }
 #Malopolska Region (3004000)
@@ -1916,7 +2348,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 5750
+        size = 2875
     }
 
     soldiers = {
@@ -1940,7 +2372,7 @@
     artisans = {
         culture = ukrainian
         religion = orthodox
-        size = 450
+        size = 225
     }
 
     soldiers = {
@@ -1964,7 +2396,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 4550
+        size = 2275
     }
 
     soldiers = {
@@ -1988,7 +2420,7 @@
     artisans = {
         culture = south_german
         religion = catholic
-        size = 100
+        size = 50
     }
 
     soldiers = {
@@ -2001,6 +2433,30 @@
         culture = south_german
         religion = catholic
         size = 1825
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2875
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 225
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2275
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 50
     }
 }
 #Tarnow (616000/154000 POPS)
@@ -2020,7 +2476,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 7250
+        size = 3625
     }
 
     soldiers = {
@@ -2044,7 +2500,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 3600
+        size = 1800
     }
 
     soldiers = {
@@ -2068,7 +2524,7 @@
     artisans = {
         culture = south_german
         religion = catholic
-        size = 50
+        size = 25
     }
 
     soldiers = {
@@ -2081,6 +2537,24 @@
         culture = south_german
         religion = catholic
         size = 920
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 3625
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1800
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 25
     }
 }
 #under the rule of Russia in 1836 (1368000)
@@ -2113,25 +2587,25 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 24550
+        size = 12275
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 20000
+        size = 10000
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 20000
+        size = 10000
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 20000
+        size = 10000
     }
 
     soldiers = {
@@ -2155,7 +2629,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 10750
+        size = 5375
     }
 
     soldiers = {
@@ -2168,6 +2642,36 @@
         culture = ashkenazi
         religion = jewish
         size = 2000
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 12275
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5375
     }
 }
 #Lublin (476000/119000 POPS)
@@ -2187,7 +2691,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4200
+        size = 2100
     }
 
     soldiers = {
@@ -2211,7 +2715,7 @@
     artisans = {
         culture = ukrainian
         religion = orthodox
-        size = 1100
+        size = 550
     }
 
     soldiers = {
@@ -2235,7 +2739,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 4550
+        size = 2275
     }
 
     soldiers = {
@@ -2248,6 +2752,24 @@
         culture = ashkenazi
         religion = jewish
         size = 8200
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2100
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 550
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2275
     }
 }
 #Kielce (448000/112000 POPS)
@@ -2267,7 +2789,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4900
+        size = 2450
     }
 
     soldiers = {
@@ -2291,7 +2813,7 @@
     artisans = {
         culture = polish
         religion = protestant
-        size = 400
+        size = 200
     }
 
     soldiers = {
@@ -2315,7 +2837,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 4550
+        size = 2275
     }
 
     soldiers = {
@@ -2328,6 +2850,24 @@
         culture = ashkenazi
         religion = jewish
         size = 8200
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2450
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2275
     }
 }
 #Galicia Region (596000) #see Ukraine.txt for balance of region
@@ -2343,7 +2883,7 @@
     artisans = {
         culture = ukrainian
         religion = orthodox
-        size = 1000
+        size = 500
     }
 
     soldiers = {
@@ -2373,7 +2913,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4565
+        size = 2282
     }
 
     soldiers = {
@@ -2397,7 +2937,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1665
+        size = 832
     }
 
     soldiers = {
@@ -2421,13 +2961,37 @@
     artisans = {
         culture = south_german
         religion = catholic
-        size = 1145
+        size = 572
     }
 
     soldiers = {
         culture = south_german
         religion = catholic
         size = 25
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2283
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 833
+    }
+
+    farmers = {
+        culture = south_german
+        religion = catholic
+        size = 573
     }
 }
 #Rzeszow (596000/149000 POPS)
@@ -2441,7 +3005,7 @@
     artisans = {
         culture = ukrainian
         religion = orthodox
-        size = 400
+        size = 200
     }
 
     soldiers = {
@@ -2471,7 +3035,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
@@ -2495,7 +3059,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1600
+        size = 800
     }
 
     soldiers = {
@@ -2526,6 +3090,24 @@
         culture = south_german
         religion = catholic
         size = 25
+    }
+
+    farmers = {
+        culture = ukrainian
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 1000
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 800
     }
 }
 #Mazovia Region (2224000)
@@ -2559,7 +3141,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 20000
+        size = 10000
     }
 
     soldiers = {
@@ -2583,7 +3165,7 @@
     artisans = {
         culture = polish
         religion = protestant
-        size = 1500
+        size = 750
     }
 
     soldiers = {
@@ -2607,7 +3189,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 10000
+        size = 5000
     }
 
     soldiers = {
@@ -2631,7 +3213,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 2500
+        size = 1250
     }
 
     soldiers = {
@@ -2644,6 +3226,30 @@
         culture = north_german
         religion = protestant
         size = 3400
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 10000
+    }
+
+    farmers = {
+        culture = polish
+        religion = protestant
+        size = 750
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1250
     }
 }
 #Suwalki (196000/49000 POPS)
@@ -2663,7 +3269,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 1900
+        size = 950
     }
 
     soldiers = {
@@ -2687,7 +3293,7 @@
     artisans = {
         culture = lithuanian
         religion = catholic
-        size = 250
+        size = 125
     }
 
     soldiers = {
@@ -2711,7 +3317,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2000
+        size = 1000
     }
 
     soldiers = {
@@ -2724,6 +3330,24 @@
         culture = ashkenazi
         religion = jewish
         size = 2900
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 950
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = catholic
+        size = 125
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1000
     }
 }
 #Plock (396000/99000 POPS)
@@ -2743,7 +3367,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4400
+        size = 2200
     }
 
     soldiers = {
@@ -2767,7 +3391,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 3500
+        size = 1750
     }
 
     soldiers = {
@@ -2791,7 +3415,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 250
+        size = 125
     }
 
     soldiers = {
@@ -2804,6 +3428,24 @@
         culture = north_german
         religion = protestant
         size = 2690
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2200
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1750
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 125
     }
 }
 #Lomza (200000/50000 POPS)
@@ -2823,7 +3465,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 2150
+        size = 1075
     }
 
     soldiers = {
@@ -2847,7 +3489,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 2250
+        size = 1125
     }
 
     soldiers = {
@@ -2860,6 +3502,18 @@
         culture = ashkenazi
         religion = jewish
         size = 5625
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 1075
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1125
     }
 }
 #Skierniewicz (436000/109000 POPS)
@@ -2879,7 +3533,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 4750
+        size = 2375
     }
 
     soldiers = {
@@ -2903,7 +3557,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 5000
+        size = 2500
     }
 
     soldiers = {
@@ -2927,7 +3581,7 @@
     artisans = {
         culture = north_german
         religion = protestant
-        size = 250
+        size = 125
     }
 
     soldiers = {
@@ -2940,6 +3594,24 @@
         culture = north_german
         religion = protestant
         size = 1700
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2375
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2500
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 125
     }
 }
 #Siedlice (472000/118000 POPS)
@@ -2959,7 +3631,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 5250
+        size = 2625
     }
 
     soldiers = {
@@ -2983,7 +3655,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 4550
+        size = 2275
     }
 
     soldiers = {
@@ -2996,6 +3668,18 @@
         culture = ashkenazi
         religion = jewish
         size = 8200
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 2625
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2275
     }
 }
 #Podlachia Region (320000)  #see Belarus.txt for balance of region
@@ -3011,7 +3695,7 @@
     artisans = {
         culture = byelorussian
         religion = orthodox
-        size = 1100
+        size = 550
     }
 
     soldiers = {
@@ -3041,7 +3725,7 @@
     artisans = {
         culture = polish
         religion = catholic
-        size = 400
+        size = 200
     }
 
     soldiers = {
@@ -3065,7 +3749,7 @@
     artisans = {
         culture = byelorussian
         religion = catholic
-        size = 1250
+        size = 625
     }
 
     soldiers = {
@@ -3089,7 +3773,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1250
+        size = 625
     }
 
     soldiers = {
@@ -3102,5 +3786,29 @@
         culture = ashkenazi
         religion = jewish
         size = 8575
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = orthodox
+        size = 550
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 200
+    }
+
+    farmers = {
+        culture = byelorussian
+        religion = catholic
+        size = 625
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 625
     }
 }

@@ -157,4 +157,19 @@ political_decisions = {
 			set_global_flag = motala_verkstad_expanded
 		}
 	}
+	restoration_of_the_danelaw = {
+	    potential = {
+		 tag = SCA
+         Not = { has_country_flag = ballz }
+		 }
+		 allow = {
+		      revolution_n_counterrevolution = 1
+		}
+		effect = {
+		  add_core = SCO
+		  add_core = IRE
+		  add_accepted_culture = irish
+		  set_country_flag = ballz
+		}  
+	}
 }

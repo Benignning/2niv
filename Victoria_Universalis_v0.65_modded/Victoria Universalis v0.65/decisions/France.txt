@@ -490,4 +490,17 @@ political_decisions = {
 			badboy = -5
 		}
 	}
+	
+	reintegrate_the_catalans = {
+	    potential = {
+		  tag = FRA
+		  NOT = { has_country_flag = ballz2 }
+		}
+        allow = {
+            revolution_n_counterrevolution = 1
+		}
+		effect = {
+		   add_core = CAT
+		   add_accepted_culture = catalan
+		{   
 }

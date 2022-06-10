@@ -1,4 +1,4 @@
-owner = CAN
+owner = RPL
 controller = CAN
 add_core = CAN
 add_core = CAN

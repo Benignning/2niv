@@ -28,7 +28,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 10000
+        size = 5000
     }
 
     soldiers = {
@@ -41,6 +41,12 @@
         culture = portuguese
         religion = catholic
         size = 172000
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 5000
     }
 }
 #Vila Real (324000/81000) POPS
@@ -60,7 +66,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 4250
+        size = 2125
     }
 
     soldiers = {
@@ -73,6 +79,12 @@
         culture = portuguese
         religion = catholic
         size = 72275
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 2125
     }
 }
 #Covilha (568000/142000 POPS)
@@ -92,7 +104,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 7250
+        size = 3625
     }
 
     soldiers = {
@@ -105,6 +117,12 @@
         culture = portuguese
         religion = catholic
         size = 128000
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 3625
     }
 }
 #Beira-Estremadura Region (1060000)
@@ -137,7 +155,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 300
+        size = 150
     }
 
     soldiers = {
@@ -150,6 +168,12 @@
         culture = portuguese
         religion = catholic
         size = 80050
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 150
     }
 }
 #Coimbra (460000/115000 POPS)
@@ -169,7 +193,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 5800
+        size = 2900
     }
 
     soldiers = {
@@ -182,6 +206,12 @@
         culture = portuguese
         religion = catholic
         size = 104800
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 2900
     }
 }
 #Abrantes (140000/35000 POPS)
@@ -201,7 +231,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 2250
+        size = 1125
     }
 
     soldiers = {
@@ -214,6 +244,12 @@
         culture = portuguese
         religion = catholic
         size = 30850
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 1125
     }
 }
 #Setubal (112000/28000 POPS)
@@ -233,7 +269,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 16100
+        size = 8050
     }
 
     soldiers = {
@@ -246,6 +282,12 @@
         culture = portuguese
         religion = catholic
         size = 10000
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 8050
     }
 }
 #Alentejo-Algarve Region (372000)
@@ -278,7 +320,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 1800
+        size = 900
     }
 
     soldiers = {
@@ -291,6 +333,12 @@
         culture = portuguese
         religion = catholic
         size = 34250
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 900
     }
 }
 #Beja (96000/24000 POPS)
@@ -310,7 +358,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 17150
+        size = 8575
     }
 
     soldiers = {
@@ -323,6 +371,12 @@
         culture = portuguese
         religion = catholic
         size = 5000
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 8575
     }
 }
 #Faro (120000/30000 POPS)
@@ -342,7 +396,7 @@
     artisans = {
         culture = portuguese
         religion = catholic
-        size = 1000
+        size = 500
     }
 
     soldiers = {
@@ -355,6 +409,12 @@
         culture = portuguese
         religion = catholic
         size = 27025
+    }
+
+    farmers = {
+        culture = portuguese
+        religion = catholic
+        size = 500
     }
 }
 #Azores & Madeira Region (308000)
